@@ -57,7 +57,9 @@ Berikut adalah kredensial yang digunakan untuk demonstrasi:
 ## 8. Link Deployment / Link APK / Link Demo Video
 
 Link Deployment (via GitHub Pages):
-`github.com/mia1014-bit/website-mia/`
+`github.com/mia1014-bit/toko-kue-web/`
+Link Demo Video (Google Drive):
+`https://drive.google.com/file/d/1L_ssIFJWjopGFBC2phE19Rv8WRSP_GJd/view?usp=sharing`
 
 ## 9. Screenshot Halaman Utama (opsional tapi bagus)
 
