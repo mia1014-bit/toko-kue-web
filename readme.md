@@ -1,4 +1,4 @@
-# WEBSITE TOKO KUE PREMIUM 🍰
+# WEBSITE TOKO KUE🍰
 
 ## 1. Nama Project
 
