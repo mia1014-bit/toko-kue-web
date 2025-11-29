@@ -38,7 +38,7 @@ Aplikasi ini berjalan sebagai aplikasi web statis yang di-deploy menggunakan Git
 
 * **o Cara Instalasi:**
     * **Pilihan 1 (Akses Langsung):** Kunjungi link Deployment (Point 8).
-    * **Pilihan 2 (Pengembangan Lokal):** Clone repositori ini ke komputer lokal Anda: `git clone [link-repositori-anda]`.
+    * **Pilihan 2 (Pengembangan Lokal):** Clone repositori ini ke komputer lokal Anda: `git clone [https://github.com/mia1014-bit/toko-kue-web.git]`.
 * **o Cara konfigurasi (jika ada):** Konfigurasi Firebase API Key sudah ada di `js/firebase-config.js`. (Tidak perlu konfigurasi manual).
 * **o Cara menjalankan (run project):** Akses URL GitHub Pages atau buka file `index.html` menggunakan Live Server jika dijalankan secara lokal.
 
@@ -60,6 +60,12 @@ Link Deployment (via GitHub Pages):
 `github.com/mia1014-bit/toko-kue-web/`
 Link Demo Video (Google Drive):
 `https://drive.google.com/file/d/1L_ssIFJWjopGFBC2phE19Rv8WRSP_GJd/view?usp=sharing`
+Link SRS Kelompok 4 (Google Drive):
+`https://drive.google.com/file/d/1AxZTxtY4i5GxgUbpsyUeFjpqWWO1v5ao/view?usp=sharing`
+Link Video Demo Kelompok 4 (Google Drive):
+`https://drive.google.com/file/d/10V1kwl4f3GFiqQMCLbJqH6foqv8RSndJ/view?usp=sharing`
+Link PowerPoint Kelompok 4 (Google Drive):
+``
 
 ## 9. Screenshot Halaman Utama (opsional tapi bagus)
 
