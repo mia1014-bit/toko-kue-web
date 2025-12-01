@@ -56,16 +56,17 @@ Berikut adalah kredensial yang digunakan untuk demonstrasi:
 
 ## 8. Link Deployment / Link APK / Link Demo Video
 
-Link Deployment (via GitHub Pages):
-`github.com/mia1014-bit/toko-kue-web/`
-Link Demo Video (Google Drive):
-`https://drive.google.com/file/d/1L_ssIFJWjopGFBC2phE19Rv8WRSP_GJd/view?usp=sharing`
+Link Deployment & Repository (Google Drive):
+`https://docs.google.com/document/d/1-Fj9-WjgSlhVdl6Jonxi0UM7pUCF2va_/edit?usp=sharing&ouid=108357866412946975676&rtpof=true&sd=true`
+
 Link SRS Kelompok 4 (Google Drive):
 `https://drive.google.com/file/d/1AxZTxtY4i5GxgUbpsyUeFjpqWWO1v5ao/view?usp=sharing`
+
 Link Video Demo Kelompok 4 (Google Drive):
 `https://drive.google.com/file/d/10V1kwl4f3GFiqQMCLbJqH6foqv8RSndJ/view?usp=sharing`
+
 Link PowerPoint Kelompok 4 (Google Drive):
-``
+`https://docs.google.com/presentation/d/1g6NgMlQBZZwyrFtnzXC8xxpKsCfBczah/edit?usp=sharing&ouid=108357866412946975676&rtpof=true&sd=true`
 
 ## 9. Screenshot Halaman Utama (opsional tapi bagus)
 
