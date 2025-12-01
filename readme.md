@@ -60,7 +60,7 @@ Link Deployment & Repository (Google Drive):
 `https://docs.google.com/document/d/1-Fj9-WjgSlhVdl6Jonxi0UM7pUCF2va_/edit?usp=sharing&ouid=108357866412946975676&rtpof=true&sd=true`
 
 Link SRS Kelompok 4 (Google Drive):
-`https://drive.google.com/file/d/1AxZTxtY4i5GxgUbpsyUeFjpqWWO1v5ao/view?usp=sharing`
+`https://drive.google.com/file/d/1IV4JREkGC_ugsKDOpRUTfK-rXsiIpBst/view?usp=sharing`
 
 Link Video Demo Kelompok 4 (Google Drive):
 `https://drive.google.com/file/d/10V1kwl4f3GFiqQMCLbJqH6foqv8RSndJ/view?usp=sharing`
