@@ -66,7 +66,7 @@ Link Video Demo Kelompok 4 (Google Drive):
 `https://drive.google.com/file/d/10V1kwl4f3GFiqQMCLbJqH6foqv8RSndJ/view?usp=sharing`
 
 Link PowerPoint Kelompok 4 (Google Drive):
-`https://docs.google.com/presentation/d/1g6NgMlQBZZwyrFtnzXC8xxpKsCfBczah/edit?usp=sharing&ouid=108357866412946975676&rtpof=true&sd=true`
+`https://docs.google.com/presentation/d/1Gh_MX1xBXHmhQ6AGcRqOlrL6wUEI8-eI/edit?usp=sharing&ouid=108357866412946975676&rtpof=true&sd=true`
 
 ## 9. Screenshot Halaman Utama (opsional tapi bagus)
 
